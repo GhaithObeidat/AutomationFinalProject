@@ -7,7 +7,7 @@
         <methods>
           <include name="AfterMyTest"/>
           <include name="mySetup"/>
-          <include name="myTestOne"/>
+          <include name="FlightDepartureDate"/>
         </methods>
       </class> <!-- AutomationFinalProject_April.AutomationFinalProject_April.AppTest -->
     </classes>
